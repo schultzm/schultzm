@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm [Mark] 👋
 
-<!--
-**schultzm/schultzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌟 I’m currently working on [project](https://link-to-project.com)
+- 📚 I’m learning [technology/language]
+- 💬 Ask me about [topics you are knowledgeable about]
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, R, Bash, Groovy, Golang
+- **Tools**: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
+- [![ORCID](https://orcid.org/0000-0002-7689-6531)]
