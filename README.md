@@ -5,6 +5,8 @@
 - 📚 I’m learning [technology/language]
 - 💬 Ask me about [topics you are knowledgeable about]
 
+- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Skills
 - **Languages**: Python, R, Bash, Groovy, Golang
 - **Tools**: Git, Docker, VS Code
