@@ -1,9 +1,7 @@
 # Hello, I'm [Mark] 👋
 
 ## About Me
-- 🌟 I’m currently working on [project](https://link-to-project.com)
-- 📚 I’m learning [technology/language]
-- 💬 Ask me about [topics you are knowledgeable about]
+- 🌟 A computational biologist and bioinformatician
 
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
