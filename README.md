@@ -10,6 +10,6 @@
 - **Tools**: Git, Docker, VS Code
 
 ## Contact
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mark-schultz-10310331b/)
 - [![ORCID](https://img.shields.io/badge/ORCID-ID-green)](https://orcid.org/0000-0002-7689-6531)
 
